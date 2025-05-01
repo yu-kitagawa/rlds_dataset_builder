@@ -1,0 +1,9 @@
+tensorflow
+tensorflow-datasets==4.9.3
+tensorflow_hub
+apache_beam
+matplotlib
+plotly
+wandb
+mlcroissant
+opencv-python
